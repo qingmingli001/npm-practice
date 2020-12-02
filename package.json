@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qingmingli001/npm-practice/issues"
   },
-  "homepage": "https://github.com/qingmingli001/npm-practice#readme"
+  "homepage": "https://github.com/qingmingli001/npm-practice#readme",
+  "dependencies": {
+    "dayjs": "^1.9.6"
+  }
 }
