@@ -18,6 +18,8 @@
   "homepage": "https://github.com/qingmingli001/npm-practice#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "dayjs": "^1.9.6"
+    "dayjs": "^1.9.6",
+    "pluralize": "^8.0.0",
+    "validator": "^13.5.1"
   }
 }
